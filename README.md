@@ -12,3 +12,5 @@ The primary objective here is to visually and quantitatively explore the intrica
 This is a modification of the kaggle notebook provided by CERN which can be found on this link: https://www.kaggle.com/code/meirinevans/model-fitting
 The notebook uses ATLAS Open Data http://opendata.atlas.cern to demonstrate how to prepare for fitting a model.
 The datasets used in this notebook have already been filtered to include at least 4 leptons per event.
+
+3.) **Ensemble Learning for predicting bandgap of 2D Perovskite data** (work in progress)
