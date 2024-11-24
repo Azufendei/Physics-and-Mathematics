@@ -6,7 +6,7 @@ This is a repository for all my minor projects undertaken related to the sub dom
 #**List of Projects implemented as of yet:**
 
 1.) **Logistic Mapping and Chaos**
-The primary objective here is to visually and quantitatively explore the intricate patterns and chaotic regions that arise in the logistic map as we vary a key parameter: r, known as the control parameter. By systematically examining the bifurcation diagram to unveil the population dynamics that occur at different r values. Additionally, the aim is to show the sensitivity of the logistic map to initial conditions by calculating and visualizing Lyapunov exponents.
+The primary objective here is to visually and quantitatively explore the intricate patterns and chaotic regions that arise in the logistic map as we vary a key parameter: r, known as the control parameter. By examining the bifurcation diagram to unveil the population dynamics that occur at different r values. Additionally, the aim is to show the sensitivity of the logistic map to initial conditions by calculating and visualizing Lyapunov exponents.
 
 2.) **Model Fitting on the 4leptons dataset(https://www.kaggle.com/datasets/meirinevans/4lepton):**
 This is a modification of the kaggle notebook provided by CERN which can be found on this link: https://www.kaggle.com/code/meirinevans/model-fitting
